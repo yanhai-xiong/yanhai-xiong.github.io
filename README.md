@@ -26,11 +26,17 @@ To begin using this template, choose one of the following options to get started
 
 ## Usage
 
+### My Usage
+
+- Download the files locally
+- Update contents in `index.html` and primary color in `scss/_variables.scss`, then run `gulp css` to enable the color change
+- Pull the files in folders `css`, `scss` and file `index.html` 
+
 ### Basic Usage
 
 After downloading, simply edit the HTML and CSS files included with the template in your favorite text editor to make changes. These are the only files you need to worry about, you can ignore everything else! To preview the changes you make to the code, you can open the `index.html` file in your web browser.
 
-To update the color, edit `primary` in `variable` of scss folder, then run `gulp css`. 
+To update the colors, edit variables in `_variables.scss` of scss folder, then run `gulp css`. 
 
 ### Advanced Usage
 
